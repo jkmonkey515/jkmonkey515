@@ -13,3 +13,9 @@
 <p><img src="https://github-readme-stats-ten-delta-99.vercel.app/api?username=jkmonkey515&show_icons=true&theme=radical&hide_border=true" alt="jkmonkey515" /></p>
 
 <p><img src="https://github-readme-stats-ten-delta-99.vercel.app/api/top-langs/?username=jkmonkey515&layout=compact&theme=radical&hide_border=true" alt="jkmonkey515" /></p>
+
+TRC:
+TWUVMcYop189Jcot1726CMXmc65T7WCM4J
+
+ERC and BEP:
+0xbc538713832e7d507f3E1aB0833b0028bfb75ad8
